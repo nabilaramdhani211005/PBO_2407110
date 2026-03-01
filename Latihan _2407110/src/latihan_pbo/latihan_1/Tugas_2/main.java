@@ -1,4 +1,4 @@
-package latihan_pbo.latihan_1.Tugas_1;
+package latihan_pbo.latihan_1.Tugas_2;
 
 import java.util.Scanner; // untuk input dari keyboard
 
@@ -94,3 +94,12 @@ public class main {
         input.close();
     }
 }
+
+
+//bikinn kalkuulator bangun datar
+//persegi
+//persegi panjang
+//segitiga
+//diselesaikan dlm bentuk selection/switchcase
+//output tugasnyaa word/pdf
+//output tugasnyaa kelas diagram  4 minimal
