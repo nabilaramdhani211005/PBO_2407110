@@ -1,4 +1,4 @@
-package latihan_pbo.latihan_1.Tugas_2;
+package Tugas_2407110.Tugas_Cafe;
 
 import java.util.Scanner; // untuk input dari keyboard
 

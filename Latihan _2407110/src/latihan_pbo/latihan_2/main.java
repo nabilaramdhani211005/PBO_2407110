@@ -1,5 +1,5 @@
 
-package latihan_pbo.latihan_1.latihan_2;
+package latihan_pbo.latihan_2;
 //class ini berada di dalam folder/package tersebut. Package dipakai untuk mengelompokkan kode supaya rapi.
 
 
