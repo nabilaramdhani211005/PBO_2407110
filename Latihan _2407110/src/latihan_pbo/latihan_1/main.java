@@ -2,13 +2,13 @@ package latihan_pbo.latihan_1;
 
 class Cafe{
     String nama;
-    String alamat;
+    String Alamat;
    
 
     //constructor
     Cafe (String nama, String alamat ){
         this.nama = nama;
-        this.alamat = alamat;
+        this.Alamat = alamat;
     
         System.out.println( "nama cafenya adalah: " + nama);
         System.out.println("alamat cafenya dimana: " + alamat);
@@ -24,10 +24,10 @@ class Cafe{
         this.nama = nama;
     }
     public String getAlamat() {
-        return alamat;
+        return Alamat;
     }
     public void setAlamat(String alamat) {
-        this.alamat = alamat;
+        this.Alamat = alamat;
     }
      void buka(){
             System.out.println("============");
