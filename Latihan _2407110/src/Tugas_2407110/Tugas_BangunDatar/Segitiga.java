@@ -1,4 +1,4 @@
-package latihan_pbo.Tugas_2407110;
+package Tugas_2407110.Tugas_BangunDatar;
 
 public class Segitiga {
    
