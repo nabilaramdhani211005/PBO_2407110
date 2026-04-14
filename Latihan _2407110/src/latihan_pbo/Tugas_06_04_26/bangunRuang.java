@@ -6,11 +6,12 @@ public class bangunRuang extends bangunDatar {
 
     // constructor
     public bangunRuang(int panjang, int lebar, int tinggi) {
-        super(panjang, lebar); 
+        super(panjang, lebar);
         this.tinggi = tinggi;
     }
 
-    // method hitung volume
+    // method override
+    
     public int hitungVolume() {
         return hitungLuas() * tinggi;
     }
