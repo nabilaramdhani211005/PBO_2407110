@@ -3,15 +3,15 @@ package latihan_pbo.Tugas_13_04_26;
 
     public class Persegi extends BangunDatar {
 
-    public Persegi(double sisi) {
-        super(sisi);
+    public Persegi(double varA) {
+        super(varA);
     }
 
     @Override
     public double hitungLuas() {
         return getVarA() * getVarA();
     }
-
+    
     @Override
     public void tampilkan() {
         System.out.println("Persegi");

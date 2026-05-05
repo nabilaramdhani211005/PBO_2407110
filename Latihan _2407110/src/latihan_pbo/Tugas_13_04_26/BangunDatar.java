@@ -6,6 +6,7 @@ public class BangunDatar {
     private double varB;
 
     // constructor 2 parameter
+    //make double karena angka panjang itu ga hanya nilai bulat
     public BangunDatar(double varA, double varB) {
         this.varA = varA;
         this.varB = varB;

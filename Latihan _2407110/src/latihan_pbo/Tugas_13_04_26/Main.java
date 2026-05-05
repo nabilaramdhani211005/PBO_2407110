@@ -6,8 +6,8 @@ public class Main {
 
         BangunDatar bd;
 
-        // menampilkan BangunDatar (soal 1.d)
-        bd = new BangunDatar(3,4);
+       //polymarism
+        bd = new BangunDatar(3,4); 
         bd.tampilkan();
 
         // Persegi
